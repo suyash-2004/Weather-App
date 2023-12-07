@@ -36,14 +36,14 @@ Include screenshots or GIFs to visually showcase the user interface and function
 3. Run the application:
    ```bash
    Copy code python weather_app.py
-###Usage
+### Usage
 - Enter the desired location in the input box.
 - Click the "Get Weather" button to retrieve weather information.
 - View real-time weather details and dynamic weather images.
-##Contributing
+## Contributing
 If you'd like to contribute to this project, please follow the standard GitHub flow:
 
-##Fork the repository
+## Fork the repository
 - Create a new branch (git checkout -b feature/new-feature)
 - Make your changes and commit them (git commit -am 'Add new feature')
 - Push to the branch (git push origin feature/new-feature)
