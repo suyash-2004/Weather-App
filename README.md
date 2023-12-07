@@ -29,27 +29,24 @@ Include screenshots or GIFs to visually showcase the user interface and function
    ```bash
    git clone https://github.com/yourusername/weather-app.git
    cd weather-app
-Install dependencies:
+2. Install dependencies:
 
-bash
-Copy code
-pip install -r requirements.txt
-Run the application:
-
-bash
-Copy code
-python weather_app.py
-Usage
-Enter the desired location in the input box.
-Click the "Get Weather" button to retrieve weather information.
-View real-time weather details and dynamic weather images.
-Contributing
+    ```bash
+    Copy code pip install -r requirements.txt
+3. Run the application:
+   ```bash
+   Copy code python weather_app.py
+###Usage
+- Enter the desired location in the input box.
+- Click the "Get Weather" button to retrieve weather information.
+- View real-time weather details and dynamic weather images.
+##Contributing
 If you'd like to contribute to this project, please follow the standard GitHub flow:
 
-Fork the repository
-Create a new branch (git checkout -b feature/new-feature)
-Make your changes and commit them (git commit -am 'Add new feature')
-Push to the branch (git push origin feature/new-feature)
-Create a new Pull Request
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+##Fork the repository
+- Create a new branch (git checkout -b feature/new-feature)
+- Make your changes and commit them (git commit -am 'Add new feature')
+- Push to the branch (git push origin feature/new-feature)
+- Create a new Pull Request
+##License
+- This project is licensed under the MIT License - see the LICENSE file for details.
