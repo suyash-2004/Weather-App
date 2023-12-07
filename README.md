@@ -48,5 +48,5 @@ If you'd like to contribute to this project, please follow the standard GitHub f
 - Make your changes and commit them (git commit -am 'Add new feature')
 - Push to the branch (git push origin feature/new-feature)
 - Create a new Pull Request
-##License
+## License
 - This project is licensed under the MIT License - see the LICENSE file for details.
